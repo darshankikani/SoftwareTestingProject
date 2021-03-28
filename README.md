@@ -8,8 +8,8 @@ Jayan Patel (2091348)
 
 # SoftwareTestingProject
 This Project is made as final project for Software Testing Tool subject. This project is made with three other member.
-Project Title: Car service system(Web Application)
-This system is based on the car service where user can book there appoinment online and select the different packages of car service and make the booking according to there choice.
+Project Title: CarPool Application(Web Application)
+This system is used for carpool that is basically rideshare.So it makes users easy to book a ride and travel to any location easily.  
 This project is made using HTML, CSS and Bootstrap 
 In this project firebase is use as database 
 It run on any browser who support simle HTML script 
